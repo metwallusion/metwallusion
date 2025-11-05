@@ -8,9 +8,8 @@
 ---
 
 ### 🏢 Organizations & Work
-- 🧾 Core maintainer at **[AI Baby Teaching](https://github.com/AIBabyTeaching)** 
-- 🧾 Core maintainer at **[Accountants-on-Air](https://github.com/Accountants-on-Air)**
-- 🎓 Research & teaching projects at **AAST / CAI**
+- 🧾 Core maintainer at **[AI Baby Teaching](https://github.com/AIBabyTeaching)** **[Accountants-on-Air](https://github.com/Accountants-on-Air)**
+- 🎓 Research & teaching projects at **AAST / CAI** **[Research Gate](https://www.researchgate.net/profile/Ahmed-Metwalli)**
 - 💼 Over **5,000+ contributions in the last 12 months**, mostly inside organization repositories (many private).
 
 ---
