@@ -35,28 +35,6 @@
   />
 </p>
 
----
-
-### 📊 Public GitHub Stats (personal repos only)
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=metwallusion&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
-    alt="GitHub stats (public personal repos)"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=metwallusion&layout=compact&theme=radical&hide_border=true"
-    alt="Top languages (public personal repos)"
-  />
-</p>
-
-<sub align="center">
-  ⚠️ Note: The cards above are generated from public data. The official contribution graph on this page remains the
-  source that includes all private and organization activity.
-</sub>
 
 ---
 
