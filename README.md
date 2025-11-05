@@ -30,7 +30,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=metwallusion&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=metwallusion&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak for metwallusion"
   />
 </p>
