@@ -41,7 +41,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=metwallusion&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=metwallusion&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
     alt="GitHub stats (public personal repos)"
   />
 </p>
